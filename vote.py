@@ -8,7 +8,7 @@ import lxml.html
 
 
 LOGIN_EMAIL = '15825279415'
-LOGIN_PASSWORD = 'y880228'
+LOGIN_PASSWORD = ''
 LOGIN_URL = 'http://mail.10086.cn/'
 
 
